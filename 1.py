@@ -1,6 +1,5 @@
 try:
-    num = int(input("Enter Number: "))
-    print(100/num)
-
+    x=100
+    print(x)
 except:
-    print("Some error occurred")
+    print("An exception occured")
